@@ -1,0 +1,16 @@
+*{
+  background-color: rgb(127, 225, 255);
+  
+}
+.headings{
+  display: flex;
+    justify-content: space-between;
+}
+#event,#action{
+  background-color: whitesmoke;
+}
+
+#btn{
+  justify-content: center;
+  background-color: blue;
+}
