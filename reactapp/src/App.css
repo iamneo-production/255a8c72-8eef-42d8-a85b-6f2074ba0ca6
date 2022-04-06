@@ -1,0 +1,20 @@
+.bcolor {
+  text-align:justify;
+  
+}
+.App-header {
+  background-color:darkblue;
+  display:flex;
+  color: white;
+  padding-left: 20px;
+}
+
+.App-bcolor {
+  color:darkcyan;
+  text-align:center;
+}
+.App-form{
+  text-align: center;
+  margin-top: 80px;
+  margin-bottom: 80px;
+}

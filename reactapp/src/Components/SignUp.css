@@ -1,0 +1,18 @@
+.App-header1 {
+    background-color:darkblue;
+    display:flex;
+    color: white;
+    padding-left: 20px;
+}
+.bcolor1 {
+  text-align:justify;
+}
+.App-bcolor1 {
+    color:darkcyan;
+    text-align:center;
+}
+.App-form1{
+  text-align: center;
+  margin-top: 80px;
+  margin-bottom: 80px;
+}
