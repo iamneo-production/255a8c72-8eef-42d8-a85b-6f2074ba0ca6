@@ -1,7 +1,7 @@
 import React from "react";
-import { Container, Stack} from '@mui/material';
+import { CardActionArea,Container, Stack, Grid } from '@mui/material';
 import Avatar from '@mui/material/Avatar';
-
+import Box from '@mui/material/Box';
 
 function Appoinmentlistcard() {
     return (
