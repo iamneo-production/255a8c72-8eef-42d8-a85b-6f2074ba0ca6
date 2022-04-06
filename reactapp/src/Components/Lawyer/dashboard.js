@@ -1,5 +1,7 @@
 import React, { useState } from 'react';
-import Home from "./Home"
+// import Box from '@mui/material/Box';
+// import Paper from '@mui/material/Paper';
+import Home from "../Lawyer/Home"
 
 import AppBar from '@mui/material/AppBar';
 import Box from '@mui/material/Box';
@@ -8,8 +10,8 @@ import Typography from '@mui/material/Typography';
 import Button from '@mui/material/Button';
 
 
-import CaseRecord from './CaseRecord';
-import Report from './Report';
+import CaseRecord from './CaseRecords';
+import Report from './Reports';
 
 
 export default function DashBoard() {
