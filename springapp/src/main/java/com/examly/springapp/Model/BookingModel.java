@@ -4,6 +4,7 @@ import java.util.*;
 import com.fasterxml.jackson.annotation.JsonIgnoreProperties;
 import com.fasterxml.jackson.annotation.JsonProperty;
 
+//to prevent changes in lower or uppercase strings
 @JsonIgnoreProperties(ignoreUnknown = true)
 public class BookingModel {
 
